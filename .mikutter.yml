@@ -1,0 +1,10 @@
+---
+slug: :low_angler
+depends:
+  mikutter: 4.0.0
+  plugin:
+  - panchira
+version: '1.0'
+author: shibafu528
+name: low_angler
+description: panchira gemを使って画像のURL解決を行うmikutter plugin
